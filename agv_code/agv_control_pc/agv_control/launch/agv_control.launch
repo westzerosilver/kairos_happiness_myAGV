@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="agv_control" type="lane_detect.py" name="lane_detect" output="screen"/>
+</launch>
